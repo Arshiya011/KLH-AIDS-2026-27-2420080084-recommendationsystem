@@ -1,0 +1,5 @@
+Stage,Rows,Unique Users,Unique Items,Density %,Volume Retained %
+1. Raw Dataset,568454,256059,74258,0.003,100.0
+2. Deduplicated & Invalid Dropped,560802,256059,74258,0.0029,98.65
+3. Cleaned (3-Core Alternative),268569,40565,13575,0.0488,47.25
+4. Cleaned (5-Core Primary),166951,17400,4907,0.1955,29.37
