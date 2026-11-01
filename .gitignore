@@ -1,0 +1,15 @@
+@"
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+.env
+"@ | Set-Content -Encoding utf8 .gitignore
+# Large local project files
+/data/raw/amazon/Reviews.csv
+/models/item_knn_bookcrossing.pkl

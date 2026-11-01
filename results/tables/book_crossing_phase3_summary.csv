@@ -1,0 +1,2 @@
+Dataset,Total Feature Count,Popularity & Bias Features,Demographic Features,Metadata & Target Encodings,SVD Latent Factor Features,Temporal Features,Genre Features
+Book-Crossing,53,6,4,6,33,Omitted (Missing Timestamps),Substituted by Author/Publisher Metadata

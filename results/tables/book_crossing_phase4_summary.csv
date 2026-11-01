@@ -1,0 +1,6 @@
+Model,Type,Saved Artifact
+Global Mean,Baseline,models/global_mean_bookcrossing.pkl
+Item-KNN,Collaborative Filtering,models/item_knn_bookcrossing.pkl
+XGBoost,Gradient Boosted Trees,models/xgb_bookcrossing.pkl
+LightGBM,Gradient Boosted Trees,models/lgb_bookcrossing.pkl
+NCF (NeuMF),Deep Learning,models/ncf_bookcrossing_best.pt

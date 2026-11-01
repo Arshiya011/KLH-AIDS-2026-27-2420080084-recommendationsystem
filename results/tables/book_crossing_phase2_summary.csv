@@ -1,0 +1,2 @@
+Dataset,Total Cleaned Interactions,RMSE Train Set (80%),RMSE Test Set (20%),LOO Train Set,LOO Test Targets,Negative Samples / User,Rating Min (Scaled),Rating Max (Scaled),Rating Mean (Scaled)
+Book-Crossing,115219,94358,20861,108368,6851,99,1.0,5.0,4.03

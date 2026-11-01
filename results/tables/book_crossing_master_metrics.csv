@@ -1,0 +1,6 @@
+Dataset,Model,RMSE,HR@10,NDCG@10
+Book-Crossing,Global Mean,0.7901,0.1022,0.0454
+Book-Crossing,Item-KNN,0.7497,0.1385,0.0587
+Book-Crossing,XGBoost,0.7547,0.0,0.0
+Book-Crossing,LightGBM,0.7542,0.0,0.0
+Book-Crossing,NCF (NeuMF),0.7786,0.1447,0.0723
